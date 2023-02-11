@@ -14,7 +14,7 @@ const Navbar = () => {
           very code for this web app are entirely free and open source
           (available through{" "}
           <a
-            href="http://github.com/haroutio"
+            href="http://github.com/haroutio/astrocalc"
             target="_blank"
             rel="noreferrer"
             className="text-yellow-200 hover:cursor-pointer hover:text-yellow-600"
