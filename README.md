@@ -1,4 +1,4 @@
-# AstroCalc
+# [AstroCalc](https://astrocalc.vercel.app)
 
 This is a basic application designed specifically with astrological
 calculations in mind. As vague and hard as it is to find astrological
@@ -7,7 +7,7 @@ either too simple thus making the results inaccurate, or not very
 scientific) a client of mine asked me to build him a web application
 capable of doing such calculations. I tried to use as many astronomical rather than astrological formulas as possible (You'd think there wouldn't be a difference). I limited the output of these calculations to 6 decimal points just to prevent extra clutter on the site, and any extra would be negligible for most people.
 
-To view the formulas please either see below, or take a look at the src/utils folder. All the calculations are done inside of those files with the exception of index.js simply acting as, well... you guessed it, the Index.
+To view the formulas please either see below, or take a look at the src/utils folder. All the calculations are done inside of those files with the exception of index.js simply acting as, well... you guessed it, the Index. To view the application itself, simply click the Heading above called AstroCalc, or visit https://astrocalc.vercel.app/
 
 ---
 
@@ -69,4 +69,4 @@ The meridian is determined by adding the right ascension to the observer's longi
 
 ---
 
-There are a few more calculators incoming to this application. Bear with me as this is still a work in progress (Converting from an old html/css/jquery site with subpar calculations and optimizations to a react app) and being worked on with an extremely limited schedule. This is not yet deployed, however it will be shortly.
+There are a few more calculators incoming to this application. Bear with me as this is still a work in progress (Converting from an old html/css/jquery site with subpar calculations and optimizations to a react app) and being worked on with an extremely limited schedule.
