@@ -5,3 +5,9 @@
 :root {
   background-color: rgb(46, 46, 46);
 }
+
+@layer components {
+  .input.input-bordered {
+    @apply max-w-[120px] md:max-w-xl;
+  }
+}
