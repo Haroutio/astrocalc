@@ -69,6 +69,4 @@ The meridian is determined by adding the right ascension to the observer's longi
 
 ---
 
-```
- There are a few more calculators incoming to this application. Bear with me as this is still a work in progress (Converting from an old html/css/jquery site with subpar calculations and optimizations to a react app) and being worked on with an extremely limited schedule. This is not yet deployed, however it will be shortly.
-```
+There are a few more calculators incoming to this application. Bear with me as this is still a work in progress (Converting from an old html/css/jquery site with subpar calculations and optimizations to a react app) and being worked on with an extremely limited schedule. This is not yet deployed, however it will be shortly.
