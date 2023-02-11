@@ -132,7 +132,7 @@ const ComplexMeridian = () => {
               {!inputError ? (
                 <>
                   <h1 className="text-xl">
-                    Simple Meridian:{" "}
+                    Complex Meridian:{" "}
                     <span className="font-bold text-primary">
                       {complexmeridian}&#176;
                     </span>
