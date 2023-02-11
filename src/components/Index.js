@@ -8,3 +8,4 @@ export { default as Parallax } from "./Parallax";
 export { default as SimpleMeridian } from "./SimpleMeridian";
 export { default as ComplexMeridian } from "./ComplexMeridian";
 //export { default as Ascendant } from "./Ascendant";
+export { default as Footer } from "./Footer";

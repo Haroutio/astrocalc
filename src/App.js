@@ -9,6 +9,7 @@ import {
   SimpleMeridian,
   ComplexMeridian,
   //Ascendant,
+  Footer,
 } from "./components/Index";
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
           */}
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
